@@ -1,0 +1,48 @@
+.lolo{
+    margin-left: 500px;
+    margin-right:40px ;
+    }
+    footer{
+    background-color: yellowgreen;
+  }
+  NAV{
+    background-color: greenyellow;
+  }
+  ul li a{
+    list-style: none;
+    vertical-align: auto;
+  }
+  li{
+    display: inline;
+    margin: 8px;
+  }
+  #header{
+background-color: yellowgreen;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+text-align: center;
+}
+span{
+font-style: italic;
+font-weight: bold;
+
+}
+.tech{
+float: left;
+}
+.work{
+float: right;
+}
+.POSE{
+float: left;
+}
+.OZO{
+float: inline-start;
+}
+#ozo{
+float: right;
+background-color: greenyellow;
+}
+body{
+  background-color: aliceblue;
+}

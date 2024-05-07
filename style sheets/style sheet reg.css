@@ -1,0 +1,33 @@
+body{
+    background-color: aliceblue;
+  }
+  footer{
+    background-color: yellowgreen;
+  }
+  NAV{
+    background-color: greenyellow;
+  }
+  ul li a{
+    list-style: none;
+    vertical-align: auto;
+  }
+  li{
+    display: inline;
+    margin: 8px;
+  }
+  #header{
+  background-color: yellowgreen;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: larger;
+  text-align: center;
+  }
+  .lolo{
+          margin-left: 500px;
+          margin-right:40px ;
+        }
+        h2{
+          text-align: center;
+        }
+       legend{
+        text-align: center;
+       }

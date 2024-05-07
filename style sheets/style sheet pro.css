@@ -1,0 +1,71 @@
+.lolo{
+    margin-left: 500px;
+    margin-right:40px ;
+}
+    h1{
+        text-align: center;
+    }
+    #intro{
+        background-color: greenyellow;
+        border: 10px;
+        border-radius: 5px;
+    }
+    .honey{
+        float: left;
+    }
+    .ingre{
+        float: right;
+    }
+    .idodo{
+        float: left;
+    }
+    .pig1{
+        float: left;
+    }
+    .pig2{
+        float: right;
+    }
+ .veg{
+    float: left;
+ }
+ .vegi{
+    float: right;
+ }
+ .fish{
+    float: left;
+ }
+ .fish2{
+    float: right;
+ }
+ .chick1{
+    float: right;
+ }
+ .chick1{
+    float: right;
+ }
+ .chick2{
+    float: left;
+ }
+ body{
+    background-color: aliceblue;
+ }
+ footer{
+    background-color: yellowgreen;
+  }
+  NAV{
+    background-color: greenyellow;
+  }
+  ul li a{
+    list-style: none;
+    vertical-align: auto;
+  }
+  li{
+    display: inline;
+    margin: 8px;
+  }
+  #header{
+background-color: yellowgreen;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+text-align: center;
+}

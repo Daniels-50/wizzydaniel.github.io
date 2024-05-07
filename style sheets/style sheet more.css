@@ -1,0 +1,39 @@
+footer{
+    background-color: yellowgreen;
+  }
+  body{
+    background-color: aliceblue;
+  }
+  .lolo{
+    margin-left: 500px;
+    margin-right:40px ;
+  }
+  h2{
+    text-align: center;
+  }
+  .cof2{
+    float: left;
+  }
+  #table{
+ float: right;
+  }
+  h5{
+    float:left
+  }
+  NAV{
+    background-color:greenyellow;
+  }
+  ul li a{
+    list-style: none;
+    vertical-align: auto;
+  }
+  li{
+    display: inline;
+    margin: 8px;
+  }
+  #header{
+background-color: yellowgreen;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+text-align: center;
+}

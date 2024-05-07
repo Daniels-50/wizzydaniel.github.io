@@ -1,0 +1,36 @@
+.lolo{
+    margin-left: 500px;
+    margin-right:40px ;
+}
+      body{
+    background-color:aliceblue;
+ }
+ footer{
+    background-color:yellowgreen;
+  }
+  NAV{
+    background-color:greenyellow;
+  }
+  ul li a{
+    list-style: none;
+    vertical-align: auto;
+  }
+  li{
+    display: inline;
+    margin: 8px;
+  }
+  #header{
+background-color: yellowgreen;
+font-family: 'Times New Roman', Times, serif;
+font-size: larger;
+text-align: center;
+}
+.bb{
+  float:inline-start;
+}
+.cons{
+  float: inline-end;
+}
+#first{
+  background-color: yellowgreen;
+}
