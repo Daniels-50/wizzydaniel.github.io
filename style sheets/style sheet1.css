@@ -12,7 +12,9 @@ h1{
     color: greenyellow;
   }
  #samuel{
-  background-image: url(body.jpg);
+  background-image: url(../body.jpg);
+     margin-left:500;
+     margin-right:500;
  }
  .logo{
   margin-left:20%;
@@ -26,7 +28,7 @@ h1{
  }
 .button1{
   list-style: none;
-  background-image: url(agg.jpg);
+  background-image: url(./agg.jpg);
   display: block;
   padding-block: 70px;
   margin: 400px;
@@ -43,7 +45,7 @@ h1{
 }
 .button2{
   list-style: none;
-  background-image: url(agro.jpg);
+  background-image: url(./agro.jpg);
   display: block;
   margin: 400px;
   margin-top: 30px;
