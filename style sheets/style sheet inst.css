@@ -40,9 +40,45 @@ float: left;
 float: inline-start;
 }
 #ozo{
-float: right;
 background-color: greenyellow;
 }
 body{
   background-color: aliceblue;
+}
+
+/*mobile device (portrait and landscape)*/
+@media only screen and 
+(max-width:430px) and 
+(max-height:932px){
+  #header{
+    background-color: greenyellow;
+    background-position:center ;
+    background-repeat: no-repeat;
+    width: 100vh;
+}
+nav{
+    background-color: greenyellow;
+    background-position:center ;
+    background-repeat: no-repeat;
+    width: 100vh;
+}
+.lolo{
+  margin-right: 20px;
+  margin-left: 310px;
+}
+#beg{
+  width: 100vh;
+}
+#ozo{
+  width: 100vh;
+}
+#build{
+  width: 100vh;
+}
+footer{
+  background-color: greenyellow;
+  background-position:center ;
+  background-repeat: no-repeat;
+  width: 100vh;
+}
 }

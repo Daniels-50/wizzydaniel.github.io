@@ -1,4 +1,4 @@
-.lolo{
+D.lolo{
     margin-left: 500px;
     margin-right:40px ;
 }
@@ -69,3 +69,56 @@ font-family: 'Times New Roman', Times, serif;
 font-size: larger;
 text-align: center;
 }
+
+/*mobile device (portrait and landscape)*/
+@media only screen and 
+(max-width:430px) and 
+(max-height:932px){
+  #header{
+    background-color: greenyellow;
+    background-position:center ;
+    background-repeat: no-repeat;
+    width: 100vh;
+}
+nav{
+    background-color: greenyellow;
+    background-position:center ;
+    background-repeat: no-repeat;
+    width: 100vh;
+}
+.lolo{
+  margin-right: 20px;
+  margin-left: 310px;
+}
+h1{
+   width: 100vh;
+}
+#intro{
+   width: 100vh;
+}
+#odi{
+   width: 100vh;
+}
+#pig{
+   width: 100vh;
+}
+#chick1{
+   width: 100vh;
+}
+#veg{
+   width: 100vh;
+}
+#close{
+   width: 100vh;
+}
+#fish{
+   width: 100vh;
+}
+footer{
+   background-color: greenyellow;
+   background-position:center ;
+   background-repeat: no-repeat;
+   width: 100vh;
+ }
+}
+
